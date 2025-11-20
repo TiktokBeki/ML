@@ -43,3 +43,11 @@ torch.optim → Optimizers like Adam.
 TensorDataset → Converts X & y into PyTorch training-ready datasets.
 
 DataLoader → Loads data in batches for efficient training.
+
+
+
+
+
+
+python -m pip install pandas matplotlib seaborn joblib torch
+
